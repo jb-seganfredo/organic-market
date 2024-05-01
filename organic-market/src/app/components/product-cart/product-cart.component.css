@@ -1,16 +1,16 @@
 #offcanvasExample {
-    position: fixed;
-    top: 0;
-    right: -100%; /* Initially off the screen */
-    width: 300px; /* Adjust width as needed */
-    height: 100%; /* Full height of the viewport */
-    background-color: #fff; /* Example background color */
-    transition: 0.8s ease; /* Transition for smooth animation */
-  }
+  position: fixed;
+  top: 0;
+  right: -100%; /* Initially off the screen */
+  width: 300px; /* Adjust width as needed */
+  height: 100%; /* Full height of the viewport */
+  background-color: #fff; /* Example background color */
+  transition: 0.8s ease; /* Transition for smooth animation */
+}
   
-  #offcanvasExample.show {
-    right: 0; /* Move in from the right when the 'show' class is added */
-  }
+#offcanvasExample.show {
+  right: 0; /* Move in from the right when the 'show' class is added */
+}
 
 
 button {

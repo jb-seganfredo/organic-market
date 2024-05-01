@@ -10,3 +10,13 @@ h3 {
     margin-bottom: 0;
     padding-bottom: 0;
 }
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .card {
+       max-width: 400px;
+    }
+
+}

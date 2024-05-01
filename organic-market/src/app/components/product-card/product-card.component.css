@@ -1,11 +1,11 @@
 
 button {
-    margin-left: 100px;
-    background-color: rgb(146, 179, 146);
-    border: none;
-    padding: 5px 15px;
-    height: 40px;
-  }
+  margin-left: 100px;
+  background-color: rgb(146, 179, 146);
+  border: none;
+  padding: 5px 15px;
+  height: 40px;
+}
 
 .buttons {
   display: flex;
